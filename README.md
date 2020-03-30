@@ -1,6 +1,16 @@
-# Flask-WebPush
+# Flask-pyWebPush
+
+[![PyPI version shields.io](https://img.shields.io/pypi/v/flask-pywebpush.svg)](https://pypi.python.org/pypi/flask-pywebpush/)
 
 A clean interface to `pywebpush` from Flask. Basically, a very thin wrapper.
+
+## Installation
+
+The package is available [at the PyPI](https://pypi.org/project/Flask-pyWebPush/):
+
+```bash
+$ pip install flask-pywebpush
+```
 
 ## Quickstart
 
