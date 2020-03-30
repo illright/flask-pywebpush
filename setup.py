@@ -12,7 +12,7 @@ with open('README.md') as readme:
 
 setuptools.setup(
     name="Flask-pyWebPush",
-    version="1.0",
+    version="1.1",
     url="https://github.com/illright/flask-pywebpush",
     license="MIT",
     author="Lev Chelyadinov",
